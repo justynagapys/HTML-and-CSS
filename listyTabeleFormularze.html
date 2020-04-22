@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listy, tabele i formularze</title>
+</head>
+<body>
+    <h1>Warsztaty poetyckie</h1>
+    <p>W tym roku mamy zamiar zorganizować i przeprowadzić serię warsztatów oraz sympozjów poetyckich</p>
+    <p>Dla naszych członków wstęp na te imprezy będzie bezpłatny:</p>
+    <ul>
+        <li>Perspektywa poetycka</li>
+        <li>Wojna w oczach Baczyńskiego</li>
+        <li>Poematy odnalezione i poeci-outsiderzy</li>
+    </ul>
+    <table>
+        <tr class="head">
+            <th></th>
+            <th>Kraków</th>
+            <th>Wrocław</th>
+            <th>Gdańsk</th>
+        </tr>
+        <tr>
+            <th>Perspektywa poetycka</th>
+            <th>Sobota, 4 lutego 2012 <br />11:00 - 14:00</th>
+            <th>Sobota, 3 marca 2012 <br />11:00 - 14:00</th>
+            <th>Sobota, 17 marca 2012 <br />11:00 - 14:00</th>
+        </tr>
+        <tr class="even">
+            <th>Wojna w oczach Baczyńskiego</th>
+            <th>Sobota, 7 kwietnia 2012 <br />11:00 - 13:00</th>
+            <th>Sobota, 5 maja 2012 <br />11:00 - 13:00</th>
+            <th>Sobota, 19 maja 2012 <br />11:00 - 13:00</th>
+        </tr>
+        <tr>
+            <th>Poematy odnalezione i poeci-outsiderzy</th>
+            <th>Sobota, 9 czerwca 2012 <br />11:00 - 14:00</th>
+            <th>Sobota, 7 lipca 2012 <br />11:00 - 14:00</th>
+            <th>Sobota, 21 lipca 2012 <br />11:00 - 14:00</th>
+        </tr>
+        <tr class="even">
+            <th>Naturalna śmierć: Granice poznania</th>
+            <th>Sobota, 4 sieprnia 2012 <br />11:00 - 16:00</th>
+            <th>Sobota, 8 września 2012 <br />11:00 - 16:00</th>
+            <th>Sobota, 15 września 2012 <br />11:00 - 16:00</th>
+        </tr>
+    </table>
+    <form action="http://www.jakaswitryna.com.pl/form.php" method="GET">
+        <fieldset>
+            <legend>Rejestracja uczestnictwa</legend>
+            <p>
+                <label class="title" for="name">Imię i nazwisko:</label>
+                <input type="text" name="name" id="name"><br />
+                <label class="title" for="email">E-mail:</label>
+                <input type="text" name="email" id="email">
+            </p>
+            <p>
+                <label for="location" class="title">Najbliższa placówka:</label>
+                <select name="location" id="location">
+                    <option value="kr">Kraków</option>
+                    <option value="wr">Wrocław</option>
+                    <option value="gd">Gdańsk</option>
+                </select>
+            </p>
+            <span class="title">Czy jesteś członkiem stowarzyszenia?</span>
+            <label><input type="radio" name="member" value="yes" />Tak</label>
+            <label><input type="radio" name="member" value="no" />Nie</label>
+        </fieldset>
+        <div class="submit"><input type="submit" value="Rejestracja" /></div>
+    </form>
+</body>
+</html>
