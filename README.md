@@ -10,7 +10,7 @@ Here you can find program that:
 
 and many others.
 
-![Leaflet map](C:\Users\justy\OneDrive\Pulpit)
+![Leaflet map](C:\Users\justy\OneDrive\Pulpit\mapaLeaflet.png)
 
 Exercises have been written using **Visual Studio Code**.
 
