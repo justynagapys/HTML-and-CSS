@@ -6,29 +6,29 @@ A repository created to document the progress in the design of websites.
 Exercises are mostly based on the polish version of the book **"HTML & CSS"** by Jon Duckett, but some were created for the need for university classes.
 
 Here you can find projects that:
-* create a map using the Leaflet library
+* create a map using the Leaflet library (**mapaLeaflet**)
 
 ![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/leafletmap.png)
 
-*
+* show the possibilities of using colors in CSS (**kolor**)
 
 ![PHScale](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/PHscale.png)
 
-*
+* create a gallery of images (**obrazy2**)
 
 ![ImagesFlowers](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/flowers.png)
 
-*
+* show the possibilities and use of lists, tables and forms (**listyTabeleFormularze**, **listy**, **tabele** and **formularze**)
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/forms.png)
+![Forms](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/forms.png)
 
-*
+* show how to use the box model (**pudelkaElementow**)
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/guitar.png)
+![GuitarShop](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/guitar.png)
 
-*
+* show what the layout looks like in HTML5 (**ukladWHTML5**)
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/kitchen.png)
+![KitchenYoko](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/kitchen.png)
 
 and many others.
 
