@@ -8,7 +8,7 @@ Exercises are mostly based on the polish version of the book **"HTML & CSS"** by
 Here you can find projects that:
 * create a map using the Leaflet library
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/leafletmap.png)
 
 *
 
