@@ -6,11 +6,13 @@ A repository created to document the progress in the design of websites.
 Exercises are mostly based on the polish version of the book **"HTML & CSS"** by Jon Duckett, but some were created for the need for university classes.
 
 Here you can find projects that:
-* 
-
-and many others.
+* create a map using the Leaflet library
 
 ![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+
+*
+
+and many others.
 
 Exercises have been written using **Visual Studio Code**.
 
