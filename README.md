@@ -12,6 +12,24 @@ Here you can find projects that:
 
 *
 
+![PHScale](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/PHscale.png)
+
+*
+
+![ImagesFlowers](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/flowers.png)
+
+*
+
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+
+*
+
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+
+*
+
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+
 and many others.
 
 Exercises have been written using **Visual Studio Code**.
