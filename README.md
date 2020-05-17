@@ -20,15 +20,15 @@ Here you can find projects that:
 
 *
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/forms.png)
 
 *
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/guitar.png)
 
 *
 
-![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/mapaLeaflet.png)
+![Leaflet map](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/kitchen.png)
 
 and many others.
 
