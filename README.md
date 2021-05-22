@@ -14,10 +14,6 @@ Here you can find projects that:
 
 ![PHScale](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/PHscale.png)
 
-* create a gallery of images (**obrazy2**)
-
-![ImagesFlowers](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/flowers.png)
-
 * show the possibilities and use of lists, tables and forms (**listyTabeleFormularze**, **listy**, **tabele** and **formularze**)
 
 ![Forms](https://github.com/justynagapys/HTML-and-CSS/blob/master/ImagesReadme/forms.png)
